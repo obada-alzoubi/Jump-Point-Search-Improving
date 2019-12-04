@@ -1,0 +1,7 @@
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBAJPS\SIMBA\bin\Release\JPA.exe
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBAJPS\SIMBA\bin\Release\JPA.pdb
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBAJPS\SIMBA\obj\Release\JPA.csprojResolveAssemblyReference.cache
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBAJPS\SIMBA\obj\Release\JPA.Properties.Resources.resources
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBAJPS\SIMBA\obj\Release\JPA.csproj.GenerateResource.Cache
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBAJPS\SIMBA\obj\Release\JPA.exe
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBAJPS\SIMBA\obj\Release\JPA.pdb

@@ -1,0 +1,14 @@
+C:\Users\Obada\Desktop\imp\SIMBAJPS\SIMBA\bin\Release\SIBAJPS.exe
+C:\Users\Obada\Desktop\imp\SIMBAJPS\SIMBA\bin\Release\SIBAJPS.pdb
+C:\Users\Obada\Desktop\imp\SIMBAJPS\SIMBA\obj\Release\SIBAJPS.Properties.Resources.resources
+C:\Users\Obada\Desktop\imp\SIMBAJPS\SIMBA\obj\Release\SIBAJPA.csproj.GenerateResource.Cache
+C:\Users\Obada\Desktop\imp\SIMBAJPS\SIMBA\obj\Release\SIBAJPS.exe
+C:\Users\Obada\Desktop\imp\SIMBAJPS\SIMBA\obj\Release\SIBAJPS.pdb
+C:\Users\Obada\Desktop\imp\SIMBAJPS\SIMBA\obj\Release\SIBAJPA.csprojResolveAssemblyReference.cache
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBAJPS\SIMBA\bin\Release\SIBAJPS.exe
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBAJPS\SIMBA\bin\Release\SIBAJPS.pdb
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBAJPS\SIMBA\obj\Release\SIBAJPA.csprojResolveAssemblyReference.cache
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBAJPS\SIMBA\obj\Release\SIBAJPS.Properties.Resources.resources
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBAJPS\SIMBA\obj\Release\SIBAJPA.csproj.GenerateResource.Cache
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBAJPS\SIMBA\obj\Release\SIBAJPS.exe
+\\isilon1\homefolders\oalzoubi\Desktop\SIMBAJPS\SIMBA\obj\Release\SIBAJPS.pdb
